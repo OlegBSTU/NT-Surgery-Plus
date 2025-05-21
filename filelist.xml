@@ -23,12 +23,4 @@
   <Text file="%ModDir%/Localization/Russian/Russian.xml" />
 	<Text file="%ModDir%/Localization/Spanish/Spanish.xml" />
 	<Text file="%ModDir%/Localization/Turkish/Turkish.xml" />
-  <None file="%ModDir%/Images/SurgeonClothes.png" />
-  <None file="%ModDir%/Images/MainAtlas.png" />
-  <None file="%ModDir%/Images/drapes.png" />
-  <None file="%ModDir%/Images/drapehelmet.png" />
-  <None file="%ModDir%/Lua/Autorun/init.lua" />
-  <None file="%ModDir%/Lua/Scripts/humanupdate.lua" />
-  <None file="%ModDir%/Lua/Scripts/items.lua" />
-  <None file="%ModDir%/Lua/Scripts/configdata.lua" />
 </contentpackage>
