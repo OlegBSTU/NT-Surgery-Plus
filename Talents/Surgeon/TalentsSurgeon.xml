@@ -3,7 +3,7 @@
   <Talents>
     <!-- Ethical Medicine -->
     <Talent identifier="ntsp_bedsidemanner">
-      <Icon texture="%ModDir%/Images/MainAtlas.png" sheetindex="6,0" sheetelementsize="128,128" />
+      <Icon texture="%ModDir%/Items/MainAtlas.png" sheetindex="6,0" sheetelementsize="128,128" />
       <Description tag="talentdescription.ntsp_bedsidemanner" />
       <Description tag="talentdescription.gainmissionxpanditem">
         <Replace tag="[amount]" value="30" color="gui.green" />
@@ -107,7 +107,7 @@
       </AbilityGroupEffect>
     </Talent>
     <Talent identifier="ntsp_unspecialisedspecialist">
-      <Icon texture="%ModDir%/Images/MainAtlas.png" sheetindex="6,1" sheetelementsize="128,128" />
+      <Icon texture="%ModDir%/Items/MainAtlas.png" sheetindex="6,1" sheetelementsize="128,128" />
       <Description tag="talentdescription.ntsp_unspecialisedspecialist">
         <Replace tag="[amount]" value="20" color="gui.green" />
         <Replace tag="[skillname]" value="skillname.surgery" color="gui.orange" />
@@ -119,12 +119,12 @@
       </AbilityGroupEffect>
     </Talent>
     <Talent identifier="ntsp_brucereitzperk">
-      <Icon texture="%ModDir%/Images/MainAtlas.png" sheetindex="7,0" sheetelementsize="128,128" />
+      <Icon texture="%ModDir%/Items/MainAtlas.png" sheetindex="7,0" sheetelementsize="128,128" />
       <Description tag="talentdescription.ntsp_brucereitzperk" />
     </Talent>
     <!-- Dabbling Pharmacist -->
     <Talent identifier="ntsp_therapisttintraining">
-      <Icon texture="%ModDir%/Images/MainAtlas.png" sheetindex="7,0" sheetelementsize="128,128" />
+      <Icon texture="%ModDir%/Items/MainAtlas.png" sheetindex="7,0" sheetelementsize="128,128" />
       <Description tag="talentdescription.ntsp_therapisttintraining">
         <Replace tag="[amount]" value="20" color="gui.green" />
       </Description>
@@ -145,7 +145,7 @@
       </Description>
     </Talent>
     <Talent identifier="ntsp_homecarepackage">
-      <Icon texture="%ModDir%/Images/MainAtlas.png" sheetindex="7,1" sheetelementsize="128,128" />
+      <Icon texture="%ModDir%/Items/MainAtlas.png" sheetindex="7,1" sheetelementsize="128,128" />
       <Description tag="talentdescription.ntsp_homecarepackage"></Description>
       <Description tag="talentdescription.gainitem">
         <Replace tag="[amount]" value="3" color="gui.green" />
@@ -168,7 +168,7 @@
       </AbilityGroupEffect>
     </Talent>
     <Talent identifier="ntsp_mannitol">
-      <Icon texture="%ModDir%/Images/MainAtlas.png" sheetindex="4,0" sheetelementsize="128,128" />
+      <Icon texture="%ModDir%/Items/MainAtlas.png" sheetindex="4,0" sheetelementsize="128,128" />
       <Description tag="talentdescription.unlockrecipe">
         <Replace tag="[itemname]" value="entityname.mannitolplus" color="gui.orange" />
       </Description>
@@ -182,7 +182,7 @@
       <AddedRecipe itemidentifier="experimentaltreatment" />
     </Talent>
     <Talent identifier="ntsp_selfcare">
-      <Icon texture="%ModDir%/Images/MainAtlas.png" sheetindex="3,0" sheetelementsize="128,128" />
+      <Icon texture="%ModDir%/Items/MainAtlas.png" sheetindex="3,0" sheetelementsize="128,128" />
       <Description tag="talentdescription.ntsp_selfcarepsychosis">
         <Replace tag="[amount]" value="50" color="gui.green" />
         <Replace tag="[affliction]" value="afflictionname.psychosis" color="gui.orange" />
@@ -197,7 +197,7 @@
     </Talent>
     <!-- Field surgeon -->
     <Talent identifier="ntsp_rapiddeoployment">
-      <Icon texture="%ModDir%/Images/MainAtlas.png" sheetindex="5,0" sheetelementsize="128,128" />
+      <Icon texture="%ModDir%/Items/MainAtlas.png" sheetindex="5,0" sheetelementsize="128,128" />
       <Description tag="talentdescription.additionalstattypeself">
         <Replace tag="[amount]" value="40" color="gui.green" />
         <Replace tag="[stattype]" value="stattypenames.swimmingspeed" color="gui.orange" />
@@ -370,7 +370,7 @@
       <Description tag="talentdescription.ntsp_preventativepermit">
         <Replace tag="[physicalresistance]" value="35" color="gui.green" />
       </Description>
-      <Icon texture="%ModDir%/Images/MainAtlas.png" sheetindex="6,0" sheetelementsize="128,128" />
+      <Icon texture="%ModDir%/Items/MainAtlas.png" sheetindex="6,0" sheetelementsize="128,128" />
       <Description tag="talentdescription.commanderreminder" />
       <AbilityGroupInterval>
         <Abilities>
@@ -457,14 +457,14 @@
       <AddedRecipe itemidentifier="aed" />
     </Talent>
     <Talent identifier="ntsp_injectorgeneral">
-      <Icon texture="%ModDir%/Images/MainAtlas.png" sheetindex="6,0" sheetelementsize="128,128" />
+      <Icon texture="%ModDir%/Items/MainAtlas.png" sheetindex="6,0" sheetelementsize="128,128" />
       <Description tag="talentdescription.ntsp_injectorgeneral">
         <Replace tag="[amount]" value="20" color="gui.green" />
       </Description>
       <CharacterAbilityGiveStat stattype="MedicalItemApplyingMultiplier" value="0.25" />
     </Talent>
     <Talent identifier="ntsp_fellowtoaster">
-      <Icon texture="%ModDir%/Images/MainAtlas.png" sheetindex="2,0" sheetelementsize="128,128" />
+      <Icon texture="%ModDir%/Items/MainAtlas.png" sheetindex="2,0" sheetelementsize="128,128" />
       <Description tag="talentdescription.simultaneousskillgain">
         <Replace tag="[skillname1]" value="skillname.surgery" color="gui.orange" />
         <Replace tag="[skillname2]" value="skillname.mechanical" color="gui.orange" />
