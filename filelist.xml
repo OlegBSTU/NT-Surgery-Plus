@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<contentpackage name="NT Surgery Plus" corepackage="false" gameversion="0.16.7.0">
+<contentpackage name="NT Surgery Plus" steamworkshopid="3478084070" corepackage="false" modversion="1.2.5" gameversion="1.8.8.1">
   <Afflictions file="%ModDir%/Afflictions/Afflictions.xml" />
   <Item file="%ModDir%/Items/BodyParts/Organs.xml" />
   <Item file="%ModDir%/Items/Jobgear/Surgeon/surgeon_gear.xml" />
