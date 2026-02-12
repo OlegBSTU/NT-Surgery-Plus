@@ -278,7 +278,7 @@
         <Replace tag="[job]" value="jobname.captain" color="0.65,0.73,0.84" />
       </Description>
       <Description tag="talentdescription.additionalskill">
-        <Replace tag="[amount]" value="111" color="gui.green" />
+        <Replace tag="[amount]" value="20" color="gui.green" />
         <Replace tag="[stattype]" value="stattypenames.helmskillbonus" color="gui.orange" />
       </Description>
       <AbilityGroupEffect abilityeffecttype="None">
@@ -293,7 +293,7 @@
         <Replace tag="[job]" value="jobname.medicaldoctor" color="0.81,0.31,0.19" />
       </Description>
       <Description tag="talentdescription.additionalskill">
-        <Replace tag="[amount]" value="222" color="gui.green" />
+        <Replace tag="[amount]" value="20" color="gui.green" />
         <Replace tag="[stattype]" value="stattypenames.medicalskillbonus" color="gui.orange" />
       </Description>
       <AbilityGroupEffect abilityeffecttype="None">
