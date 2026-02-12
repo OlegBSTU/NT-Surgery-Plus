@@ -228,8 +228,8 @@
       </Description>
       <AbilityGroupEffect abilityeffecttype="None">
         <Abilities>
-          <CharacterAbilityGiveResistance resistance="gunshotwound" multiplier="0.25" />
-          <CharacterAbilityGiveResistance resistance="lacerations" multiplier="0.25" />
+          <CharacterAbilityGiveResistance resistance="gunshotwound" multiplier="0.75" />
+          <CharacterAbilityGiveResistance resistance="lacerations" multiplier="0.75" />
         </Abilities>
       </AbilityGroupEffect>
     </Talent>
@@ -256,8 +256,7 @@
       </AbilityGroupInterval>
       <AbilityGroupEffect abilityeffecttype="None">
         <Abilities>
-          <CharacterAbilityGiveResistance resistance="blunttrauma" multiplier="0.25" />
-          <!-- <CharacterAbilityModifyResistance resistanceid="stun" resistance="0.3"/> -->
+          <CharacterAbilityGiveResistance resistance="blunttrauma" multiplier="0.75" />
         </Abilities>
       </AbilityGroupEffect>
     </Talent>
